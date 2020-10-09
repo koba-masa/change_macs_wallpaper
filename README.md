@@ -1,0 +1,2 @@
+# change_macs_wallpaper
+Macの操作スペースごとのデスクトップピクチャを自動で変更する
